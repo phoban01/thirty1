@@ -1,0 +1,13 @@
+{
+  "name": "thirty1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "game.js",
+  "scripts": {
+    "test": "echo \"No tests\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "Apache-2.0",
+  "type": "commonjs"
+}
